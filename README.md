@@ -1,11 +1,15 @@
 # Portfolio Paulo Teixeira V. de Carvalho
 
 
-## Main Projects
+## Labrob Projects
 
+### Trekking Robot
 
-| Puma+ | Solo 8 | Touro Maximus | Touro Middle | Touro Light |
-| ------------------------- | ------------- |------------- |------------- | ------------- |
+### Quadruped Robot
+
+## Robot Combat
+| Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot |
+| ------------------------- | ------------- |------------- |
 
 ## Minor Projects
 
