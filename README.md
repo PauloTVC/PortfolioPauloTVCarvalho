@@ -1,18 +1,21 @@
 # Portfolio Paulo Teixeira V. de Carvalho
 
+## Introduction
+### History
+### Skills
 
 ## Labrob Projects
 
 ### Trekking Robot
 
-### Quadruped Robot
+### Senior Year Project
 
 ## Robot Combat
-| Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot |
-| ------------------------- | ------------- |------------- |
+| Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot | Beetleweight |
+| ------------------------- | ------------- |------------- | ------------- |
 
 ## Minor Projects
 
 
-| Carapaça Fu2re | Marloney accessories | Drummers |
+| Shell | Introduction to Engineering | Extras |
 | ------------------------- | ------------- |------------- |
