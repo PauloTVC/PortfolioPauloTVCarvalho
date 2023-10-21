@@ -17,5 +17,6 @@
 ## Minor Projects
 
 
-| Shell | Introduction to Engineering | Extras |
+| Protection for Cameras | Introduction to Engineering | Extras |
 | ------------------------- | ------------- |------------- |
+| <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/fu2re/shell_closed.png" width="300" height="200"> | <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/Introduction_to_engineering/introduction_to_engineering.png" width="300" height="200"> | <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/Extras/Christmas_Tree.png" width="300" height="200"> |
