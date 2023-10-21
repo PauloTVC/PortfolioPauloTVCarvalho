@@ -10,6 +10,10 @@
 
 ### Senior Year Project
 
+| Teste |
+|------|
+| <img src="Senior year project/20220604_154925.jpg" alt="Alt Text" width="300" height="200">  |
+
 ## Robot Combat
 | Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot | Beetleweight |
 | ------------------------- | ------------- |------------- | ------------- |
