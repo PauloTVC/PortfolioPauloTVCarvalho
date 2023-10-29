@@ -62,4 +62,4 @@ The Laboratory of Robotics (LabRob) is focused on the development and control of
 
 | Protection for Cameras | Motor Skate |
 | ------------------------- | ------------- |
-| <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/fu2re/shell_closed.png" width="300" height="200"> |  |  
+| <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/fu2re/Assembled.png" width="300" height="200"> |  |  
