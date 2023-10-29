@@ -1,10 +1,15 @@
 # Portfolio Paulo Teixeira V. de Carvalho
 
+Hello,
+
+I am an R&D engineer with a strong focus on mechanical design and robotics. My journey in this field began during my undergraduate studies in Mechanical Engineering, where I not only excelled academically but also actively participated as a monitor and a key member of the robotics team, Riobotz. Within Riobotz, I immersed myself in the world of mechanical design and construction, eventually taking on the role of the team's principal designer.
+
+Currently, I am pursuing my master's degree, where I have embraced a new set of challenges. These include expanding my skill set to include programming, exploring the intricacies of quadruped robots, and continuing to engage in exciting design projects, including contributions to the Robotics Lab (Labrob) and other initiatives.
+
 ### Contacts
 
 * Email: pauloteixeiravc96@gmail.com
 * Linkedin: https://www.linkedin.com/in/paulo-teixeira-vale-de-carvalho-aa97a3140/
-* Number: +55 (21) 988889-8642
 
 ## Introduction
 ### Interests
@@ -15,17 +20,17 @@
 
 ### Education
 
-* Master's degree in Mechanical Engineering - Present, Pontifical Catholic University - Rio de Janeiro, Brazil;
-* Bachelor's degree in Mechanical Engineering 2022, Pontifical Catholic University - Rio de Janeiro, Brazil.
+* Master's degree in Mechanical Engineering (03/2023 - Present), GP: 6.5  ,Pontifical Catholic University - Rio de Janeiro, Brazil;
+* Bachelor's degree in Mechanical Engineering (08/2015 - 12/2022), GP: 9.2 ,Pontifical Catholic University - Rio de Janeiro, Brazil.
 
 ### Experience
 
 * INSTOR:
   * Internship 09/21 to 02/22 and 05/22 to 11/22; 
-  * Design with SolidEdge;
-  * Writting Report;
-  * Modelling;
-  * Pratical Tests;
+  * Design and assemble with SolidEdge;
+  * Writting Report for client and certification;
+  * Modelling for thermal study;
+  * Pratical Tests in simulated industrial zone;
   * Participation in projects:
        * Tupã-Ex:  treadmill RC and autonomus robot designed for explosive environment;
        * Jaci:  Mobile wheeled robot for decontamination for hospital areas using UV light.
@@ -38,9 +43,11 @@
 * Mechanical Design: Solidworks (CSWA), SolidEdge and ANSYS.
 * Programming Languages: Python, C++ and Matlab/Simulink.
 * Robotic: ROS.
-* Languages: Portuguese and English. 
+* Languages: Portuguese (native) and English (intermediary/advanced). 
 
 ## Labrob Projects
+
+The Laboratory of Robotics (LabRob) is focused on the development and control of intelligent robotic systems. The research topics include: Project and Control of High-performance Manipulators, Project and Control of Autonomous Mobile Robots, Simultaneous Localization and Mapping (SLAM) and Path planning. 
 
 | Trekking Robot | Senior Year Project |
 |------|------|
