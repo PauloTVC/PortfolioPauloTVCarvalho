@@ -51,7 +51,7 @@ The Laboratory of Robotics (LabRob) is focused on the development and control of
 
 | Trekking Robot | Senior Year Project |
 |------|------|
-|  <a href="/Labrob/Trekking Robot/README.md" > <img src="Labrob/Trekking Robot//Puma_Plus.png" width="300" height="200">  | <a href="/Senior year project/README.md" > <img src="Senior year project/perna_teste.png" width="300" height="200">  |
+|  <a href="/Labrob/Trekking Robot/README.md" > <img src="Labrob/Trekking Robot//Puma_Plus_competição.png" width="300" height="200">  | <a href="/Senior year project/README.md" > <img src="Senior year project/perna_teste.png" width="300" height="200">  |
 
 ## Riobotz
 | Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot | Beetleweight |
