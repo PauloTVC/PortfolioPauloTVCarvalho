@@ -14,7 +14,7 @@ Besides the main purpose of the orignal project is to begin affordable to build,
 
 ### Motor Shat
 
-<img src="corte_De_eixo.PNG" width="600"> <br>
+<img src="Image/corte_De_eixo.PNG" width="600"> <br>
 
 ### Actuator structure
 
