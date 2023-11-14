@@ -20,8 +20,8 @@ Currently, I am pursuing my master's degree, where I have embraced a new set of 
 
 ### Education
 
-* Master's degree in Mechanical Engineering (03/2023 - Present), GP: 6.5  ,Pontifical Catholic University - Rio de Janeiro, Brazil;
-* Bachelor's degree in Mechanical Engineering (08/2015 - 12/2022), GP: 9.2 ,Pontifical Catholic University - Rio de Janeiro, Brazil.
+* Master's degree in Mechanical Engineering (03/2023 - Present), GP: 9.2  ,Pontifical Catholic University - Rio de Janeiro, Brazil;
+* Bachelor's degree in Mechanical Engineering (08/2015 - 12/2022), GP: 6.5 ,Pontifical Catholic University - Rio de Janeiro, Brazil.
 
 ### Experience
 
