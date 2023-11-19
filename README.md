@@ -2,9 +2,9 @@
 
 Hello,
 
-I am an R&D engineer with a strong focus on mechanical design and robotics. My journey in this field began during my undergraduate studies in Mechanical Engineering, where I not only excelled academically but also actively participated as a monitor and a key member of the robotics team, Riobotz. Within Riobotz, I immersed myself in the world of mechanical design and construction, eventually taking on the role of the team's principal designer.
+I am an R&D engineer with a strong focus on mechanical design and robotics. My journey in this field began during my undergraduate studies in Mechanical Engineering, where I not only stood out academically but also actively participated as a monitor and a key member of the robotics team, Riobotz. Within Riobotz, I immersed myself in the world of mechanical design and construction, eventually taking on the role of the team's principal designer.
 
-Currently, I am pursuing my master's degree, where I have embraced a new set of challenges. These include expanding my skill set to include programming, exploring the intricacies of quadruped robots, and continuing to engage in exciting design projects, including contributions to the Robotics Lab (Labrob) and other initiatives.
+Currently, I am pursuing my master's degree, where I have embraced a new set of challenges. These include expanding my skill set to include programming, exploring the intricacies of quadruped robots, and continuing to engage in exciting design projects, including contributions to the Robotics Lab (Labrob) of PUC-Rio and other initiatives.
 
 ### Contacts
 
@@ -20,8 +20,8 @@ Currently, I am pursuing my master's degree, where I have embraced a new set of 
 
 ### Education
 
-* Master's degree in Mechanical Engineering (03/2023 - Present), GP: 9.2  ,Pontifical Catholic University - Rio de Janeiro, Brazil;
-* Bachelor's degree in Mechanical Engineering (08/2015 - 12/2022), GP: 6.5 ,Pontifical Catholic University - Rio de Janeiro, Brazil.
+* Master's degree in Mechanical Engineering (03/2023 - Present), Pontifical Catholic University - Rio de Janeiro, Brazil;
+* Bachelor's degree in Mechanical Engineering (08/2015 - 12/2022), Pontifical Catholic University - Rio de Janeiro, Brazil.
 
 ### Experience
 
@@ -47,7 +47,7 @@ Currently, I am pursuing my master's degree, where I have embraced a new set of 
 
 ## Labrob Projects
 
-The Laboratory of Robotics (LabRob) is focused on the development and control of intelligent robotic systems. The research topics include: Project and Control of High-performance Manipulators, Project and Control of Autonomous Mobile Robots, Simultaneous Localization and Mapping (SLAM) and Path planning. 
+The Laboratory of Robotics (LabRob), from PUC-Rio, is focused on the development and control of intelligent robotic systems. The research topics include: Project and Control of High-performance Manipulators, Project and Control of Autonomous Mobile Robots, Simultaneous Localization and Mapping (SLAM) and Path planning. 
 
 | Trekking Robot | Senior Year Project |
 |------|------|
