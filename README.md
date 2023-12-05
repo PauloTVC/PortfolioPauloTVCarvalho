@@ -1,4 +1,4 @@
-# Portfolio Paulo Teixeira V. de Carvalho WIP
+# Portfolio Paulo Teixeira V. de Carvalho
 
 Hello,
 
@@ -54,12 +54,16 @@ The Laboratory of Robotics (LabRob), from PUC-Rio, is focused on the development
 |  <a href="/Labrob/Trekking Robot/README.md" > <img src="Labrob/Trekking Robot/Image/Puma_Plus_competição.png" width="300" height="200">  | <a href="/Senior year project/README.md" > <img src="Senior year project/Image/perna_teste.png" width="300" height="200">  |
 
 ## Riobotz
-| Heavyweight Combat Robot | Middleweight Combat Robot | Lightweight Combat Robot | Beetleweight |
-| ------------------------- | ------------- |------------- | ------------- |
+<!-- | Heavyweight Combat Robot |  Middleweight Combat Robot | Lightweight Combat Robot | Beetleweight | -->
+<!-- | ------------------------- |  ------------- |------------- | ------------- | -->
+
+| Heavyweight Combat Robot | Middleweight Combat Robot |
+| -- | -- |
+|   <img src="Riobotz/Image/maximus.png" width="300" height="200">  |  <img src="Riobotz/Image/Middle_weight_MF.png" width="300" height="200"> |
 
 ## Minor Projects
 
 
 | Protection for Cameras | Motor Skate |
 | ------------------------- | ------------- |
-| <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/fu2re/Assembled.png" width="300" height="200"> |  |  
+| <a href="/Minors Projects/fu2re/README.md" > <img src="Minors Projects/fu2re/Assembled.png" width="300" height="200"> | <img src="Minors Projects/Extras/Skate.PNG" width="300" height="200"> |  
