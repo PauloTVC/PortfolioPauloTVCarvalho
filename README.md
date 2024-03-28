@@ -59,7 +59,7 @@ The Laboratory of Robotics (LabRob), from PUC-Rio, is focused on the development
 
 | Heavyweight Combat Robot | Middleweight Combat Robot |
 | -- | -- |
-|   <img src="Riobotz/Image/maximus.ng" width="300" height="200">  |  <img src="Riobotz/Image/Middle_weight_MF.png" width="300" height="200"> |
+|   <img src="Riobotz/Image/maximus.png" width="300" height="200">  |  <img src="Riobotz/Image/Middle_weight_MF.png" width="300" height="200"> |
 
 ## Minor Projects
 
